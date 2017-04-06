@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017-04-01-Jekylling & Prose.io
+title: 2017-04-01-Jekylling-and-Editing
 published: true
 ---
 ## Setting Up Jekyll
