@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2017-04-01-Jekylling & Prose.io
-published: false
+published: true
 ---
 ## Setting Up Jekyll
 I'm using [Jekyll](https://github.com/barryclark/jekyll-now) for blogging and I'm quite excited at the simplicity that I'm experiencing with it. I was talking with another SecPro and he asked me what mattered to me within the security realm. I explained that in the technology complexity-creep, I wanted to see us consider the path forward with first asking what 'we can we simplify' before 'what can we *add*'. This is my actionable tribute to that idea. With Jekyll being a static site generator, I've (with the help of the creator) taken away the database and the cms...ahh, simplicity!
